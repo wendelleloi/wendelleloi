@@ -3,7 +3,7 @@
 [![Linkedin: wendelleloi](https://img.shields.io/badge/-wendelleloi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wendell-eloi-1a5324168/)](https://www.linkedin.com/in/wendell-eloi-1a5324168/)
 [![GitHub wendelleloi](https://img.shields.io/github/followers/wendelleloi?label=follow&style=social)](https://github.com/wendelleloi)
 
-- 🔭 I’m currently working at [Dasa](https://www.linkedin.com/company/dasa)
+- 🔭 I’m currently working at [Hurst capital](https://www.linkedin.com/company/hurst-capital/)
 
 - 🌱 I’m currently learning **testing**
 
